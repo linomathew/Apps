@@ -1,0 +1,11 @@
+.App {
+  width: 300px;
+  min-height: 300px;
+  margin: 50px auto;
+  background-color: #6592CF;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  text-align: center;
+}
